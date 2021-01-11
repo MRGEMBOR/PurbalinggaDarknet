@@ -61,10 +61,10 @@ def jalan(z):
 #########LOGO#########
 logo = """
 [!]==================[•]==================[!]
-        AUTHOR SCRIP : MR • KALIT09
-         WHATSAPP ME : 082377804293
-  GITHUB ME : https://github.com/MRKALIT09
-      MY CYBER : MEDAN CYBER INDONESIA
+        AUTHOR SCRIP : MR • GEMBOR
+         WHATSAPP ME : 083816099745
+  GITHUB ME : https://github.com/MRGEMBOR
+      MY CYBER : PURBALINGGA DARKNET
 [!]==================[•]==================[!]
 """
 def tik():
